@@ -1,0 +1,44 @@
+# For the `icon`, see SVG.toml
+
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:qt06.com@gmail.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "telegram"
+    url = "https://t.me/qt06com"
+    icon = "telegram"
+    title = "Telegram"
+    weight = 3
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/qt06"
+    icon = "github"
+    title = "GitHub"
+    weight = 4
+
+[[socials]]
+    id = "facebook"
+    url = "https://facebook.com/qt06com"
+    icon = "facebook"
+    title = "Facebook"
+    weight = 5
+
+[[socials]]
+    id = "twitter"
+    url = "https://twitter.com/qt06com"
+    icon = "twitter"
+    title = "Twitter"
+    weight = 6
+
